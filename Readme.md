@@ -6,6 +6,10 @@ A Pygame demo of a purple-violet ball falling under gravity inside a continuousl
 
 ![Demo of rotating hexagon bounce](docs/screenshot.png)
 
+![Python](https://img.shields.io/badge/python-%3E%3D3.8-blue)
+![Pygame](https://img.shields.io/badge/pygame-%3E%3D2.0-green)
+
+
 ## 🎨 Features
 
 - **Gravity**  
@@ -35,3 +39,7 @@ A Pygame demo of a purple-violet ball falling under gravity inside a continuousl
    ```bash
    git clone https://github.com/saideepaksana/bouncing_ball.git
    cd bouncing_ball
+
+
+## License
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
