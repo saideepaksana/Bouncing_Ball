@@ -4,7 +4,7 @@ A Pygame demo of a purple-violet ball falling under gravity inside a continuousl
 
 ---
 
-![Demo of rotating hexagon bounce](assets/demo.png)
+![Demo of rotating hexagon bounce](docs/screenshot.png)
 
 ## 🎨 Features
 
